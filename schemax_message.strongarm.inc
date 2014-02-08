@@ -21,8 +21,8 @@ function schemax_message_strongarm() {
       'display' => array(
         'message__message_text__0' => array(
           'message_notify_email_subject' => array(
-            'weight' => '0',
             'visible' => TRUE,
+            'weight' => 0,
           ),
           'message_notify_email_body' => array(
             'visible' => FALSE,
