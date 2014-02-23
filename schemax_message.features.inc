@@ -42,13 +42,6 @@ function schemax_message_default_message_type() {
           "format" : "full_html",
           "safe_value" : "\\u003Cp\\u003E\\u003Ca href=\\u0022[message:user:url]\\u0022\\u003E[message:user:name]\\u003C\\/a\\u003E posted \\u003Ca href=\\u0022[message:field-schemax-node-reference:url]\\u0022\\u003E[message:field-schemax-node-reference:title]\\u003C\\/a\\u003E in !groups.\\u003C\\/p\\u003E\\n"
         }
-      ],
-      "und" : [
-        {
-          "value" : "This is the subject",
-          "format" : "filtered_html",
-          "safe_value" : "\\u003Cp\\u003EThis is the subject\\u003C\\/p\\u003E\\n"
-        }
       ]
     },
     "rdf_mapping" : []
